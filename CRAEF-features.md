@@ -4,6 +4,8 @@ I’ve developed a framework to evaluate apps on this basis, called the “Confl
 
 CRAEF enumerates a set of features that allows us to exercise control over identity-disclosure. I’ve written the features as user stories. _(In fulfilling the goal of securing identity, inevitably, privacy and security are prominent ancillaries.)_
 
+This list was first published in an article on Substack: [One-dimensional humans: the curse of single sign-in apps](https://irregularmail.substack.com/p/one-dimensional-humans-the-curse)
+
 ## Identity
 
 1. I want to use a single device (phone or laptop) to interact with different people using different identifiers (accounts), so that I can keep my identities separate
